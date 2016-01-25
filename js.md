@@ -1,17 +1,18 @@
 # Ementa Curso JavaScript
 
 ## Introdução
-* Introdução
-* Primeiro programa: Hello, World!
+* 01: Introdução
+* 02: Primeiro programa: Olá, mundo!
+* 03: Saída na tela: console.log e alert
+* 04: ES6 no Chrome
 
 ## JavaScript Básico
-* Variáveis
+* 05: Variáveis, contanstes e comentários
+* 06: String
+* 07: ES6: String literals
 * Number
-* String
 * Boolean
-* Output no browser
 * null e undefined
-* Comentários
 * Erros
 * Como debugar
 
