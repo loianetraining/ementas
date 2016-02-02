@@ -2,7 +2,6 @@
 
 ## Intro
 * #01: Introdução
-* #02: Configuração projeto + junit
 
 ## Vetores (Arrays)
 * #02: Intro (declaração, criação, iterar, verificar tamanho)
@@ -11,6 +10,9 @@
 * #05: Buscar elemento por posição
 * #07: Adicionar elemento em qualquer posição
 * #08: Remover elemento
+* #09: Aumentar capacidade do vetor
+* #10: Generalizar o tipo do vetor
+* #11: Configurar o tipo do vetor dinamicamente
 * Exercícios
 
 ## Pilhas
