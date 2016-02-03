@@ -13,6 +13,7 @@
 * #09: Aumentar capacidade do vetor
 * #10: Generalizar o tipo do vetor
 * #11: Configurar o tipo do vetor dinamicamente
+* #12: API Java: List e ArrayList
 * Exercícios
 
 ## Pilhas
