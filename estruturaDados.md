@@ -9,8 +9,8 @@
 * #04: Buscar elemento
 * #05: Buscar elemento por posição
 * #07: Adicionar elemento em qualquer posição
-* #08: Remover elemento
-* #09: Aumentar capacidade do vetor
+* #08: Aumentar capacidade do vetor
+* #09: Remover elemento
 * #10: Generalizar o tipo do vetor
 * #11: Configurar o tipo do vetor dinamicamente
 * #12: API Java: List e ArrayList
