@@ -4,20 +4,18 @@
 * 01: Introdução
 * 02: Primeiro programa: Olá, mundo!
 * 03: Saída na tela: console.log e alert
-* 04: ES6 no Chrome
 
 ## JavaScript Básico
-* 05: Variáveis, contanstes e comentários
-* 06: String
-* 07: ES6: String literals
-* Number
-* Boolean
+* 05: Variáveis, constantes e comentários
+* Tipos de dados (variáveis)
+* Operadores aritiméticos
+* Operadores atribuição
+* Operadores lógicos
 * null e undefined
-* Erros
-* Como debugar
+* typeof
 
 ## Controles e fluxos
-* Expressões e Operadores
+* Expressões
 * if-else
 * switch
 * while
@@ -25,6 +23,10 @@
 * for
 * for/in
 * labels/break/continue
+* erros
+* Como debugar
+
+## Objetos
 
 ## Funções
 * Funções
@@ -62,7 +64,7 @@
 * Introdução ao DOM
 * Selecionando elementos
 * Navegação de nódulos (nodes)
-* Aplicando estilos dinamicamente 
+* Aplicando estilos dinamicamente
 * Modificando conteúdo de elementos
 * Adicionado e clonando elementos
 * Removendo elementos
@@ -82,3 +84,6 @@
 * Introdução a Ajax
 * Web services e tipos de dados
 * Usando Xmlhttprequest
+
+##ES6
+* let e const
