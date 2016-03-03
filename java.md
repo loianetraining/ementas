@@ -86,10 +86,10 @@ Rascunho da ementa do Curso de Java
 * Correção Exercícios Aula 52: Exceptions
 
 # Elementos básicos da linguagem Java
-* Enumeradores (Enum)
-* Enum: métodos value e valueOf
-* Enumeradores como tipo de classe
-* Exercício Enum
+* 53: Enumeradores (Enum)
+* 54: Enum: métodos value e valueOf
+* 55: Enumeradores como tipo de classe
+* Correção Exercícios Aula 55: Enumeradores (Enum)
 * Wrappers: classes de tipos primitivos
 * Autoboxing e Unboxing
 * Passagem de parâmetros por valor e por referência
