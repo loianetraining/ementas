@@ -18,16 +18,24 @@
 * Exercícios
 
 ## Pilhas
-* Intro
-* Adicionar elemento
-* Remover elemento
-* Exemplo
+* 13: Intro
+* Empilhar (adicionar) elemento
+* Verificar tamanho e imprimir elementos da pilha
+* Verificar se pilha está vazia
+* Espiar/Verificar elemento topo da pilha
+* Desempilhar (remover) elemento da pilha
+* API Java: Stack
+* Exercícios
 
 ## Filas
 * Intro
-* Adicionar elemento
-* Remover elemento
-* Exemplo
+* Enfileirar (adicionar) elemento
+* Verificar tamanho e imprimir elementos da fila
+* Verificar se fila está vazia
+* Espiar/Verificar elemento topo da fila
+* Desenfileirar (remover) elemento da fila
+* API Java: Queue
+* Exercícios
 
 ## Listas Encadeadas
 * Intro
