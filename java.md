@@ -85,17 +85,22 @@ Rascunho da ementa do Curso de Java
 * 52: Exceptions: criando sua própria exceção
 * Correção Exercícios Aula 52: Exceptions
 
+# Módulo 2 do curso
+
 # Elementos básicos da linguagem Java
 * 53: Enumeradores (Enum)
-* 54: Enum: métodos value e valueOf
-* 55: Enumeradores como tipo de classe
-* Correção Exercícios Aula 55: Enumeradores (Enum)
-* Wrappers: classes de tipos primitivos
-* Autoboxing e Unboxing
-* Passagem de parâmetros por valor e por referência
-* Varargs
-* Classes aninhadas e internas
-* Garbage Collector
+* 54: Enumeradores como classe
+* 55: Enum: métodos value e valueOf
+* 55: Enum: criando métodos
+* 56: Enum: métodos abstratos
+* 57: Wrappers: classes de tipos primitivos
+* 58: Autoboxing e Unboxing
+* 59: Importação estática (static import)
+* 60: Como funciona a memória do Java
+* 61: Passagem de parâmetros por valor e por referência
+* 62: Garbage Collector
+* 63: Varargs
+* 64: Classes aninhadas e internas
 
 # Classes Utilitárias
 * String
