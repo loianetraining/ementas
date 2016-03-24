@@ -89,10 +89,10 @@ Rascunho da ementa do Curso de Java
 
 # Elementos básicos da linguagem Java
 * 53: Enumeradores (Enum)
-* 54: Enumeradores como classe
+* 54: Enumeradores como classe (construtor e métodos)
 * 55: Enum: métodos value e valueOf
-* 55: Enum: criando métodos
 * 56: Enum: métodos abstratos
+* Correção Exercícios Aula 56: Calculadora com Enum
 * 57: Wrappers: classes de tipos primitivos
 * 58: Autoboxing e Unboxing
 * 59: Importação estática (static import)
@@ -101,6 +101,7 @@ Rascunho da ementa do Curso de Java
 * 62: Garbage Collector
 * 63: Varargs
 * 64: Classes aninhadas e internas
+* 65: printf
 
 # Classes Utilitárias
 * String
