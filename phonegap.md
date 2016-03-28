@@ -24,7 +24,8 @@ Ementa do curso de Introdução a Phonegap.
 * 17: Device e Network
 * 18: Alert nativo
 * 19: Acceleromenter e Geolocalization
-* 20: Contatos
+* 20: Camera
+* 21: Contatos
 
 ## Exemplos com frameworks
 * : JQuery Mobile
