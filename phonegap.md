@@ -33,7 +33,7 @@ Ementa do curso de Introdução a Phonegap.
 
 ## Storage: App TODO Ionic com diferentes tipos de persistência
 * : LocalStorage
-* : WebStorega
+* : WebStorage
 * : SQLite
 * : Cordova e Phonegap + CORS
 * : PHP com MySQL
