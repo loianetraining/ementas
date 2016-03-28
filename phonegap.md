@@ -18,20 +18,30 @@ Ementa do curso de Introdução a Phonegap.
 * 13: Debug com GapDebug
 
 ## Plugins
-* 14: Evento deviceReady
-* 15: Acceleromenter e Geolocalization
-* 16: Device e Network
-* 17: Contatos
+* 14: Eventos cordova + deviceReady
+* 15: Cadê o cordova.js?
+* 16: Plugin Bateria (Battery)
+* 17: Device e Network
+* 18: Alert nativo
+* 19: Acceleromenter e Geolocalization
+* 20: Contatos
 
 ## Exemplos com frameworks
-* 18: JQuery Mobile
-* 19: Bootstrap + Angular
-* 20: Ionic
+* : JQuery Mobile
+* : Bootstrap + Angular
+* : Ionic
+
+## Storage: App TODO Ionic com diferentes tipos de persistência
+* : LocalStorage
+* : WebStorega
+* : SQLite
+* : Cordova e Phonegap + CORS
+* : PHP com MySQL
 
 ## Build para produção
-* 21: Phonegap Build
-* 22: Android (Google Play)
-* 23: iOS (Apple Store)
+* : Phonegap Build
+* : Android (Google Play)
+* : iOS (Apple Store)
 
 ## Próximos passos
-* 24: Conclusão e próximos passos
+* : Conclusão e próximos passos
