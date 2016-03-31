@@ -19,22 +19,20 @@
 
 ## Pilhas
 * 13: Intro
-* Empilhar (adicionar) elemento
-* Verificar tamanho e imprimir elementos da pilha
-* Verificar se pilha está vazia
-* Espiar/Verificar elemento topo da pilha
-* Desempilhar (remover) elemento da pilha
-* API Java: Stack
+* 14: Empilhar (adicionar) elemento
+* 15: Verificar se pilha está vazia
+* 16: Espiar/Verificar elemento topo da pilha
+* 17: Desempilhar (remover) elemento da pilha
+* 18: API Java: Stack
 * Exercícios
 
 ## Filas
-* Intro
-* Enfileirar (adicionar) elemento
-* Verificar tamanho e imprimir elementos da fila
-* Verificar se fila está vazia
-* Espiar/Verificar elemento topo da fila
-* Desenfileirar (remover) elemento da fila
-* API Java: Queue
+* 19: Intro
+* 20: Enfileirar (adicionar) elemento
+* 21: Verificar se fila está vazia
+* 22: Espiar/Verificar elemento topo da fila
+* 23: Desenfileirar (remover) elemento da fila
+* 24: API Java: Queue
 * Exercícios
 
 ## Listas Encadeadas
