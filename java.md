@@ -96,13 +96,18 @@ Rascunho da ementa do Curso de Java
 * 57: Wrappers: classes de tipos primitivos
 * 58: Autoboxing e Unboxing
 * 59: Importação estática (static import)
+* 60: Escopo de Variáveis
 * 61: Passagem de parâmetros por valor e por referência
-* Escopo de Variáveis
-* 63: Varargs
+* 62: Varargs
+* 63: printf
 * 64: Classes aninhadas e internas
-* 65: printf
-* 60: Como funciona a memória do Java
-* 62: Garbage Collector
+* 65: Como funciona a memória do Java
+* 66: Garbage Collector
+
+# Threads
+* Introdução a Threads
+* Criando Threads
+* Exercícios
 
 # Classes Utilitárias
 * String
@@ -112,10 +117,6 @@ Rascunho da ementa do Curso de Java
 * Date e Calendar
 * Locale
 * Formatter
-
-# Threads
-* Introdução a Threads
-* Criando Threads
 
 # Collections e Generics
 * Interface Collection
