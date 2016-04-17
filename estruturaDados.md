@@ -16,6 +16,13 @@
 * 11: Configurar o tipo do vetor dinamicamente
 * 12: API Java: List e ArrayList
 * Exercícios
+* Vetores e Arrays: Exer 01 método contém
+* Vetores e Arrays: Exer 02 método último Indice
+* Vetores e Arrays: Exer 03 método remove elemento
+* Vetores e Arrays: Exer 04 método obtém - get
+* Vetores e Arrays: Exer 05 método remover todos elementos
+* Vetores e Arrays: Exer 06 Contatos - Lista
+* Vetores e Arrays: Exer 07 Contatos - ArrayList
 
 ## Pilhas
 * 13: Intro
