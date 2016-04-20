@@ -101,13 +101,20 @@ Rascunho da ementa do Curso de Java
 * 62: Varargs
 * 63: printf
 * 64: Classes aninhadas e internas
-* 65: Como funciona a memória do Java
-* 66: Garbage Collector
+* 65: Garbage Collector
+* 66: Annotations (anotações)
 
 # Threads
 * Introdução a Threads
 * Criando Threads
-* Exercícios
+* Interface Runnable
+* Criando várias threads
+* Usar prioridade de threads
+* Usar métodos e blocos sincronizados (synchronized)
+* notify, wait e notifyAll
+* resume, suspend e stop
+* deadlocks
+* Exercícios (semáfaro)
 
 # Classes Utilitárias
 * String
@@ -119,6 +126,7 @@ Rascunho da ementa do Curso de Java
 * Formatter
 
 # Collections e Generics
+* Generics
 * Interface Collection
 * Interface List (Lista/Arrays)
 * ArrayList
@@ -134,7 +142,6 @@ Rascunho da ementa do Curso de Java
 * Comparator
 * Algoritmos Collection (ordenação e busca)
 * Classes e Interfaces legadas (Java 4)
-* Generics
 
 # I/O: Leitura e Escrita de Arquivos
 * conteúdo a ser definido
