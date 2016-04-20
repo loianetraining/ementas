@@ -26,12 +26,18 @@
 
 ## Pilhas
 * 13: Intro
-* 14: Empilhar (adicionar) elemento
+* 14: Empilhar elemento (push)
 * 15: Verificar se pilha está vazia
-* 16: Espiar/Verificar elemento topo da pilha
-* 17: Desempilhar (remover) elemento da pilha
+* 16: Espiar/Verificar elemento do topo (peek)
+* 17: Desempilhar elemento (pop)
 * 18: API Java: Stack
-* Exercícios
+* Pilhas: Exer 01
+* Pilhas: Exer 02
+* Pilhas: Exer 03
+* Pilhas: Exer 04
+* Pilhas: Exer 05
+* Pilhas: Exer 06
+* Pilhas: Exer 07
 
 ## Filas
 * 19: Intro
