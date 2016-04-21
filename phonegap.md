@@ -21,11 +21,11 @@ Ementa do curso de Introdução a Phonegap.
 * 14: Eventos cordova + deviceReady
 * 15: Cadê o cordova.js?
 * 16: Plugin Bateria (Battery)
-* 17: Device e Network
+* 17: Plugins Device e Network
 * 18: Alert nativo
-* 19: Acceleromenter e Geolocalization
-* 20: Camera
-* 21: Contatos
+* 19: Geolocation com Google Maps
+* 20: Plugin Camera
+* 21: Plugin Contatos
 
 ## Exemplos com frameworks
 * : JQuery Mobile
