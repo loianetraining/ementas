@@ -100,7 +100,7 @@ Rascunho da ementa do Curso de Java
 * 61: Passagem de parâmetros por valor e por referência
 * 62: Varargs
 * 63: printf
-* 64: Classes aninhadas e internas
+* 64: Classes aninhadas: internas, locais e anônimas
 * 65: Garbage Collector
 * 66: Annotations (anotações)
 
