@@ -28,14 +28,17 @@ Ementa do curso de Introdução a Phonegap.
 * 21: Plugin Contatos
 
 ## Exemplos com frameworks
-* : JQuery Mobile
-* : Bootstrap + Angular
-* : Ionic
+* 22: JQuery Mobile
+* 23: Bootstrap + Angular
+* 24: Ionic
 
 ## Storage: App TODO Ionic com diferentes tipos de persistência
+* : Criando a app com Ionic
+* : Criando as views da app TODO
 * : LocalStorage
 * : WebStorage
-* : SQLite
+* : Plugin SQLite
+* : iMEAN
 * : Cordova e Phonegap + CORS
 * : PHP com MySQL
 
