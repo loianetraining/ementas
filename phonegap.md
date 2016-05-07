@@ -29,18 +29,16 @@ Ementa do curso de Introdução a Phonegap.
 
 ## Exemplos com frameworks
 * 22: JQuery Mobile
-* 23: Bootstrap + Angular
-* 24: Ionic
+* 23: Ionic
 
-## Storage: App TODO Ionic com diferentes tipos de persistência
-* : Criando a app com Ionic
-* : Criando as views da app TODO
-* : LocalStorage
-* : WebStorage
-* : Plugin SQLite
-* : iMEAN
-* : Cordova e Phonegap + CORS
-* : PHP com MySQL
+## Storage: App Tarefas Ionic com diferentes tipos de persistência
+* 24: Phonegap + Ionic: App de tarefas
+* 25: Phonegap + Ionic: LocalStorage
+* 26: Phonegap + Ionic: WebStorage
+* 27: Phonegap + Ionic: Plugin SQLite
+* 28: Phonegap + Ionic: iMEAN
+* 29: CORS: conectando no servidor
+* 30: PHP com MySQL + CORS
 
 ## Build para produção
 * : Phonegap Build
