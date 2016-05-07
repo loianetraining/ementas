@@ -7,12 +7,13 @@
 
 ## JavaScript Básico
 * 05: Variáveis, constantes e comentários
-* Tipos de dados (variáveis)
-* Operadores aritiméticos
-* Operadores atribuição
-* Operadores lógicos
-* null e undefined
-* typeof
+* 06: Tipos de dados (variáveis)
+* 07: Operadores aritiméticos
+* 08: Operadores relacionais
+* 09: Operadores lógicos
+* 10: Operadores bitwise
+* 11: null e undefined
+* 12: typeof
 
 ## Controles e fluxos
 * Expressões
@@ -26,12 +27,12 @@
 * erros
 * Como debugar
 
-## Objetos
-
 ## Funções
 * Funções
 * Argumentos e tipos de retorno
 * Escopo de variáveis
+
+## Objetos
 
 ## Arrays
 * Arrays
@@ -85,5 +86,6 @@
 * Web services e tipos de dados
 * Usando Xmlhttprequest
 
+##JSON
+
 ##ES6
-* let e const
