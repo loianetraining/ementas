@@ -11,15 +11,12 @@
 ## Data binding e eventos
 * 09: Property binding + Interpolation
 * 10: Class e Style binding
-* Event binding
-* Two-way data binding
-
-## Componentes Reusáveis
-* Component API
-* Input properties
-* output properties
-* templates
-* styles
+* 11: Event binding
+* 12: Two-way data binding
+* 13: Exemplo: botão retweet e like (twitter)
+* 14: Input properties
+* 15: Output properties
+* 16: Exemplo: componente lista tweets
 
 ## Diretivas
 * ngIf
@@ -29,9 +26,10 @@
 * pipes
 * pipes customizáveis
 * ngClass
-* ngStyke
+* ngStyle
 * operador elvis
 * ng-content
+* Exemplo: componente zippy (facebook)
 
 ## Formulários
 
