@@ -31,13 +31,14 @@
 * 16: Espiar/Verificar elemento do topo (peek)
 * 17: Desempilhar elemento (pop)
 * 18: API Java: Stack
-* Pilhas: Exer 01
-* Pilhas: Exer 02
-* Pilhas: Exer 03
-* Pilhas: Exer 04
-* Pilhas: Exer 05
-* Pilhas: Exer 06
-* Pilhas: Exer 07
+* Pilhas: Exer 01 Empilha e desempilha
+* Pilhas: Exer 02 Pilhas par ou ímpar
+* Pilhas: Exer 03 Pilha de Livros
+* Pilhas: Exer 04 Stack de Livros
+* Pilhas: Exer 05 Desafio do Palíndromo
+* Pilhas: Exer 06 Desafio dos símbolos balanceados
+* Pilhas: Exer 07 Desafio conversão decimal-binário
+* Pilhas: Exer 08 Desafio Torre de Hanoi 
 
 ## Filas
 * 19: Intro
