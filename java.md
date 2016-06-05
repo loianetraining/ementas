@@ -101,19 +101,18 @@ Rascunho da ementa do Curso de Java
 * 62: Varargs
 * 63: printf
 * 64: Classes aninhadas: internas, locais e anônimas
-* 65: Garbage Collector
-* 66: Annotations (anotações)
+* 65: Annotations (anotações)
+* 66: Garbage Collector
 
 # Threads
-* Introdução a Threads
-* Criando Threads
-* Interface Runnable
-* Criando várias threads
-* Usar prioridade de threads
-* Usar métodos e blocos sincronizados (synchronized)
-* notify, wait e notifyAll
-* resume, suspend e stop
-* deadlocks
+* 67: Criando Threads + métodos start, run e sleep
+* 68: Threads: Interface Runnable
+* 69: Criando várias Threads + métodos isAlive e join
+* 70: Threads: Definindo prioridades
+* 71: Threads: métodos e blocos sincronizados (synchronized)
+* 72: Threads: notify, wait e notifyAll
+* 73: Threads: resume, suspend e stop
+* 74: Threads: deadlocks
 * Exercícios (semáfaro)
 
 # Classes Utilitárias
