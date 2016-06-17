@@ -39,18 +39,16 @@ Ementa do curso de Introdução a Phonegap.
 * 28: Phonegap + Ionic: iMEAN
 * 29: CORS: conectando no servidor
 * 30: PHP com MySQL + CORS
-31: Enviando Fotos para o servidor
 
 ## Build para produção
-* : Phonegap Build
-* : Android (Google Play)
-* : iOS (Apple Store)
-* : Customizando icones
+* 31: Phonegap Build
+* 32: Android (Google Play)
+* 33: iOS (Apple Store)
 
 ## Criando Plugins
-* : Criando plugin para Android
-* : Criando plugin para iOS
-* : Disponibilizando e usando o plugin
+* 34: Criando plugin para Android
+* 35: Criando plugin para iOS
+* 36: Disponibilizando e usando o plugin
 
 ## Próximos passos
-* : Conclusão e próximos passos
+* 37: Conclusão e próximos passos
