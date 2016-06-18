@@ -36,19 +36,18 @@ Ementa do curso de Introdução a Phonegap.
 * 25: Phonegap + Ionic: LocalStorage
 * 26: Phonegap + Ionic: WebStorage
 * 27: Phonegap + Ionic: Plugin SQLite
-* 28: Phonegap + Ionic: iMEAN
-* 29: CORS: conectando no servidor
-* 30: PHP com MySQL + CORS
+* 28: PHP com MySQL + CORS
+* 29: Phonegap + Ionic: iMEAN
 
 ## Build para produção
-* 31: Phonegap Build
-* 32: Android (Google Play)
-* 33: iOS (Apple Store)
+* 30: Phonegap Build
+* 31: Android (Google Play)
+* 32: iOS (Apple Store)
 
 ## Criando Plugins
-* 34: Criando plugin para Android
-* 35: Criando plugin para iOS
-* 36: Disponibilizando e usando o plugin
+* 33: Criando plugin para Android
+* 34: Criando plugin para iOS
+* 35: Disponibilizando e usando o plugin
 
 ## Próximos passos
-* 37: Conclusão e próximos passos
+* 36: Conclusão e próximos passos
