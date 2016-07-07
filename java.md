@@ -145,23 +145,23 @@ Rascunho da ementa do Curso de Java
 * Algoritmos Collection (ordenação e busca)
 * Classes e Interfaces legadas (Java 4)
 
-# Classes Utilitárias
-* Math
-* Date e Calendar
-* Locale
-* Formatter
-
 # I/O: Leitura e Escrita de Arquivos
-* conteúdo a ser definido
+* File (Arquivo)
+* Diretório (pastas)
+* listar arquivos, criar diretório)
+* Ler arquivo (InputStreams)
+* Criar arquivo (OutputStreams)
+* Serialização
+* Exercícios
 
 # NIO: Leitura e Escrita de Arquivos (Java 7)
 * conteúdo a ser definido
 
-# Interface Gráfica com Swing
-* conteúdo a ser definido
-
-# Interface Gráfica com Java FX
-* conteúdo a ser definido
+# Classes Utilitárias
+* Math
+* Date, Calendar, GregorianCalendar
+* Locale, TimeZone
+* Formatter
 
 # Expressões Lambda (Java 8)
 * conteúdo a ser definido
@@ -169,5 +169,8 @@ Rascunho da ementa do Curso de Java
 # Banco de Dados com JDBC
 * conteúdo a ser definido
 
-# Projeto Final
+# Interface Gráfica com Swing
+* conteúdo a ser definido
+
+# Interface Gráfica com Java FX
 * conteúdo a ser definido
