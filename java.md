@@ -113,20 +113,23 @@ Rascunho da ementa do Curso de Java
 * 72: Threads: notify, wait e notifyAll
 * 73: Threads: resume, suspend e stop
 * 74: Threads: deadlocks
-* Exercícios (semáfaro)
+* Correção Exercícios Aula 74: Semáfaro com Threads
+ 
+# Trabalhando com Strings
+* 75: String: construtores
+* 76: String: concatenação
+* 77: String: extraindo chars (charAt, getChars, getBytes, toCharArray)
+* 78: String: comparação de Strings (equalsIgnoreCase, regionMatches, startsWith, endsWith, compareTo)
+* 79: String: fazendo buscas (indexOf, lastIndexOf, contains)
+* 80: String: modificando uma String (substring, concat, replace, trim)
+* 81: String: modificando letras maiúsculas/minúsculas (toLowerCase, toUpperCase)
+* 82: String: juntando e separando String (join, split)
+* 83: StringBuilder e StringBuffer
+* 84: String Tokenizer
 
-# Classes Utilitárias
-* String
-* StringBuilder e StringBuffer
-* String Tokenizer
-* Math
-* Date e Calendar
-* Locale
-* Formatter
-
-# Collections e Generics
+# Collections e Generics (Estruturas de Dados)
 * Generics
-* Interface Collection
+* Interfaces Collection (Introdução)
 * Interface List (Lista/Arrays)
 * ArrayList
 * LinkedList
@@ -141,6 +144,12 @@ Rascunho da ementa do Curso de Java
 * Comparator
 * Algoritmos Collection (ordenação e busca)
 * Classes e Interfaces legadas (Java 4)
+
+# Classes Utilitárias
+* Math
+* Date e Calendar
+* Locale
+* Formatter
 
 # I/O: Leitura e Escrita de Arquivos
 * conteúdo a ser definido
