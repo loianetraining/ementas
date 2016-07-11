@@ -3,20 +3,20 @@
 * 02: Ambiente de desenvolvimento
 * 03: Primeira app (Hello World)
 * 04: Entendo a primeira app + typescript
-* 04: Criando e usando um componente
-* 05: Templates
-* 06: Serviços (Services) e Injeção de dependência (DI)
-* 07: Dica de produtividade: code snippets
+* 05: Criando e usando um componente
+* 06: Templates
+* 07: Serviços (Services) e Injeção de dependência (DI)
+* 08: Dica de produtividade: code snippets
 
 ## Data binding e eventos
-* 08: Property binding + Interpolation
-* 09: Class e Style binding
-* 10: Event binding
-* 11: Two-way data binding
-* 12: Exemplo: botão retweet e like (twitter)
-* 13: Input properties
-* 14: Output properties
-* 15: Exemplo: componente lista tweets
+* 09: Property binding + Interpolation
+* 10: Class e Style binding
+* 11: Event binding
+* 12: Two-way data binding
+* 13: Exemplo: botão retweet e like (twitter)
+* 14: Input properties
+* 15: Output properties
+* 16: Exemplo: componente lista tweets
 
 ## Diretivas
 * ngIf
