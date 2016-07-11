@@ -6,17 +6,17 @@
 * 04: Criando e usando um componente
 * 05: Templates
 * 06: Serviços (Services) e Injeção de dependência (DI)
-* 08: Diretivas (Directives)
+* 07: Dica de produtividade: code snippets
 
 ## Data binding e eventos
-* 09: Property binding + Interpolation
-* 10: Class e Style binding
-* 11: Event binding
-* 12: Two-way data binding
-* 13: Exemplo: botão retweet e like (twitter)
-* 14: Input properties
-* 15: Output properties
-* 16: Exemplo: componente lista tweets
+* 08: Property binding + Interpolation
+* 09: Class e Style binding
+* 10: Event binding
+* 11: Two-way data binding
+* 12: Exemplo: botão retweet e like (twitter)
+* 13: Input properties
+* 14: Output properties
+* 15: Exemplo: componente lista tweets
 
 ## Diretivas
 * ngIf
