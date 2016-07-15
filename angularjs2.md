@@ -16,23 +16,28 @@
 * 13: Exemplo: botão retweet e like (twitter)
 * 14: Input properties
 * 15: Output properties
-* 16: Exemplo: componente lista tweets
-* 17: Ciclo de vida (life-cycle) do Componente
+* 16: Ciclo de vida (life-cycle) do Componente
+* 17: Exemplo: componente lista tweets
 
 ## Diretivas
-* ngIf
-* ngSwitch
-* ngFor
-* sobre o asterisco
-* pipes
-* pipes customizáveis
-* ngClass
-* ngStyle
-* operador elvis
-* ng-content
-* Exemplo: componente zippy (facebook)
+* 18: ngIf
+* 19: ngSwitch
+* 20: ngFor
+* 21: unless
+* 22: sobre o asterisco
+* 23: pipes
+* 24: pipes customizáveis
+* 25: ngClass
+* 26: ngStyle
+* 27: operador elvis
+* 28: ng-content
+* 19: Exemplo: componente zippy (facebook)
 
-## Formulários
+## Pipes
+
+## Formulários (Templates)
+
+## Formulários (Data)
 
 ## Integração com server
 * REST
