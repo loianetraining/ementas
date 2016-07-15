@@ -17,6 +17,7 @@
 * 14: Input properties
 * 15: Output properties
 * 16: Exemplo: componente lista tweets
+* 17: Ciclo de vida (life-cycle) do Componente
 
 ## Diretivas
 * ngIf
