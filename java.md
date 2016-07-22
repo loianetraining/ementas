@@ -87,12 +87,14 @@ Rascunho da ementa do Curso de Java
 
 # Módulo 2 do curso
 
-# Elementos básicos da linguagem Java
+# Enumeradores (Enum)
 * 53: Enumeradores (Enum)
 * 54: Enumeradores como classe (construtor e métodos)
 * 55: Enum: métodos value e valueOf
 * 56: Enum: métodos abstratos
 * Correção Exercícios Aula 56: Calculadora com Enum
+
+# Elementos básicos da linguagem Java
 * 57: Wrappers: classes de tipos primitivos
 * 58: Autoboxing e Unboxing
 * 59: Importação estática (static import)
@@ -127,6 +129,12 @@ Rascunho da ementa do Curso de Java
 * 83: StringBuilder e StringBuffer
 * 84: String Tokenizer
 
+# Classes Utilitárias
+* Math
+* Date, Calendar, GregorianCalendar
+* Locale, TimeZone
+* Formatter
+
 # Collections e Generics (Estruturas de Dados)
 * Generics
 * Interfaces Collection (Introdução)
@@ -156,12 +164,6 @@ Rascunho da ementa do Curso de Java
 
 # NIO: Leitura e Escrita de Arquivos (Java 7)
 * conteúdo a ser definido
-
-# Classes Utilitárias
-* Math
-* Date, Calendar, GregorianCalendar
-* Locale, TimeZone
-* Formatter
 
 # Expressões Lambda (Java 8)
 * conteúdo a ser definido
