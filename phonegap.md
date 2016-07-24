@@ -44,10 +44,5 @@ Ementa do curso de Introdução a Phonegap.
 * 31: Android (Google Play)
 * 32: iOS (Apple Store)
 
-## Criando Plugins
-* 33: Criando plugin para Android
-* 34: Criando plugin para iOS
-* 35: Disponibilizando e usando o plugin
-
 ## Próximos passos
-* 36: Conclusão e próximos passos
+* 33: Conclusão e próximos passos
