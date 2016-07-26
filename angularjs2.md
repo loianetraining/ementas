@@ -13,11 +13,10 @@
 * 10: Class e Style binding
 * 11: Event binding
 * 12: Two-way data binding
-* 13: Exemplo: botão retweet e like (twitter)
-* 14: Input properties
-* 15: Output properties
-* 16: Ciclo de vida (life-cycle) do Componente
-* 17: Exemplo: componente lista tweets
+* 13: Input properties
+* 14: Output properties
+* 15: Ciclo de vida (life-cycle) do Componente
+* 16: Acesso à variáveis locais do Template com ViewChild
 
 ## Diretivas
 * 18: ngIf
