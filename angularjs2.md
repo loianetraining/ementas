@@ -18,19 +18,26 @@
 * 15: Ciclo de vida (life-cycle) do Componente
 * 16: Acesso à variáveis locais do Template com ViewChild
 
+## Angular CLI: Introdução
+* 17: Angular CLI: Instalação e criação de projetos: ng new e ng serve
+* 18: Angular CLI: Criando components, services: ng generate
+* 19: Angular CLI: Estrutura do projeto
+* 20: Angular CLI: Fazendo build
+
 ## Diretivas
-* 18: ngIf
-* 19: ngSwitch
-* 20: ngFor
-* 21: unless
-* 22: sobre o asterisco
-* 23: pipes
-* 24: pipes customizáveis
-* 25: ngClass
-* 26: ngStyle
+* 21: Introdução e tipos de diretivas no Angular 2
+* 21: ngIf
+* 22: ngSwitch
+* 23: ngFor
+* 24: sobre o asterisco
+* 25: ng-content
+* 26: ngClass e ngStyle
 * 27: operador elvis
-* 28: ng-content
-* 19: Exemplo: componente zippy (facebook)
+* XX: Diretivas de atributos (ngClass e ngStyle)
+* XX: Criando um diretiva de atributo
+* XX: HostListener e HostBinding
+* XX: Property Binding de Diretivas
+* XX: Criando uma diretiva de estrutura
 
 ## Pipes
 
@@ -46,5 +53,7 @@
 * CORS
 
 ## Routing & HTTP
+
+## Angular CLI: Explorando em detalhes
 
 ## CRUD Mestre-detalhe
