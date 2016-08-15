@@ -40,9 +40,10 @@ Ementa do curso de Introdução a Phonegap.
 * 29: Phonegap + Ionic: iMEAN
 
 ## Build para produção
-* 30: Phonegap Build
-* 31: Android (Google Play)
-* 32: iOS (Apple Store)
+* 30: Phonegap Build + enviando app para Google Play (Android)
+* 31: Phonegap Build + enviando app para Apple Store (iOS)
+* 32: Gerando apk e enviando para Google Play com Android Studio
+* 33: Gerando ipa e enviado para Apple Store com XCode
 
 ## Próximos passos
-* 33: Conclusão e próximos passos
+* 34: Conclusão e próximos passos
