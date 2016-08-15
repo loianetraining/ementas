@@ -32,11 +32,11 @@
 * 25: ngSwitch
 * 26: ngFor
 * 27: sobre o asterisco
-* 28: ng-content
-* 29: ngClass e ngStyle
+* 28: ngClass
+* 29: ngStyle
 * 30: operador elvis
-* XX: Diretivas de atributos (ngClass e ngStyle)
-* XX: Criando um diretiva de atributo
+* 31: ng-content
+* XX: Criando uma diretiva de atributo
 * XX: HostListener e HostBinding
 * XX: Property Binding de Diretivas
 * XX: Criando uma diretiva de estrutura
@@ -54,7 +54,7 @@
 * Promises
 * CORS
 
-## Routing & HTTP
+## Routing
 
 ## Angular CLI: Explorando em detalhes
 
