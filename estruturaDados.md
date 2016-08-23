@@ -41,12 +41,13 @@
 * Pilhas: Exer 08 Desafio Torre de Hanoi 
 
 ## Filas
-* 19: Intro
-* 20: Enfileirar (adicionar) elemento
-* 21: Verificar se fila está vazia
-* 22: Espiar/Verificar elemento topo da fila
-* 23: Desenfileirar (remover) elemento da fila
-* 24: API Java: Queue
+* 19: Introdução 
+* 20: Enfileirar (adicionar) elemento (enqueue)
+* 21: Espiar/Verificar elemento topo da fila
+* 22: Desenfileirar (remover) elemento da fila (dequeue)
+* 23: API Java: Queue + LinkedList
+* 24: Filas com Prioridade
+* 25: API Java: PriorityQueue
 * Exercícios
 
 ## Listas Encadeadas
