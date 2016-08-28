@@ -21,10 +21,11 @@
 ## Angular CLI: Introdução
 * 17: Angular CLI: Instalação e criação de projetos: ng new e ng serve
 * 18: Angular CLI: Criando components, services: ng generate
-* 19: Angular CLI: Estrutura do projeto
-* 20: Angular CLI: Fazendo build
-* 21: Angular CLI: ng lint, ng test, ng e2e
-* 22: Angular CLI: instalando bibliotecas (bootstrap)
+* 19: Angular CLI: Usando pré-processadores (Sass, Less, Stylus)
+* 20: Angular CLI: ng lint, ng test, ng e2e
+* 21: Angular CLI: Estrutura do projeto
+* 22: Angular CLI: Fazendo build
+* 23: Angular CLI: instalando bibliotecas (bootstrap)
 
 ## Diretivas
 * 23: Introdução e tipos de diretivas no Angular 2
