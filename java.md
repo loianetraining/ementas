@@ -133,7 +133,13 @@ Rascunho da ementa do Curso de Java
 * Math
 * Date, Calendar, GregorianCalendar
 * Locale, TimeZone
+* Random
+* Currency
 * Formatter
+* Formatando Datas e Tempo
+* Diferença entre datas (joda)
+* Resource Bundle
+
 
 # Collections e Generics (Estruturas de Dados)
 * Generics
