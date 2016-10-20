@@ -28,15 +28,15 @@
 * 23: Angular CLI: instalando bibliotecas (bootstrap)
 
 ## Diretivas
-* 23: Introdução e tipos de diretivas no Angular 2
-* 24: ngIf
-* 25: ngSwitch
-* 26: ngFor
-* 27: sobre o asterisco
-* 28: ngClass
-* 29: ngStyle
-* 30: operador elvis
-* 31: ng-content
+* 24: Introdução e tipos de diretivas no Angular 2
+* 25: ngIf
+* 26: ngSwitch
+* 27: ngFor
+* 28: sobre o asterisco
+* 29: ngClass
+* 10: ngStyle
+* 31: operador elvis
+* 32: ng-content
 * XX: Criando uma diretiva de atributo
 * XX: HostListener e HostBinding
 * XX: Property Binding de Diretivas
