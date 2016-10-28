@@ -37,8 +37,8 @@
 * 10: ngStyle
 * 31: operador elvis
 * 32: ng-content
-* XX: Criando uma diretiva de atributo
-* XX: HostListener e HostBinding
+* 33: Criando uma diretiva de atributo
+* 34: HostListener e HostBinding
 * XX: Property Binding de Diretivas
 * XX: Criando uma diretiva de estrutura
 
