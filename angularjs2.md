@@ -39,8 +39,8 @@
 * 32: ng-content
 * 33: Criando uma diretiva de atributo
 * 34: HostListener e HostBinding
-* XX: Property Binding de Diretivas
-* XX: Criando uma diretiva de estrutura
+* 35: Property Binding de Diretivas
+* 36: Criando uma diretiva de estrutura
 
 ## Pipes
 
