@@ -65,6 +65,7 @@
 ## Formulários (Templates)
 
 ## Formulários (Data)
+* Máscara de Input + ControlValueAccessor
 
 ## Angular CLI: Explorando em detalhes
 
