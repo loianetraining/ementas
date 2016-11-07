@@ -40,13 +40,18 @@
 * 33: Criando uma diretiva de atributo
 * 34: HostListener e HostBinding
 * 35: Property Binding de Diretivas
-* 36: Criando uma diretiva de estrutura
+* 36: Criando uma diretiva de estrutura (ngElse)
+
+## Serviço (Service) e Injeção de Dependência (DI)
+* 37: Introdução a Serviços
+* 38: Criando um serviço (Service)
+* 39: O que é Injeção de Dependência (Dependency Injection - DI)?
+* 40: Usando um serviço em um componente
+* 41: Escopo de instâncias de serviços e módulos
+* 42: Injetando um serviço em outro serviço
+* 43: Comunicação entre componentes usando serviços
 
 ## Pipes
-
-## Formulários (Templates)
-
-## Formulários (Data)
 
 ## Integração com server
 * REST
@@ -56,6 +61,10 @@
 * CORS
 
 ## Routing
+
+## Formulários (Templates)
+
+## Formulários (Data)
 
 ## Angular CLI: Explorando em detalhes
 
