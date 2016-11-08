@@ -45,11 +45,10 @@
 ## Serviço (Service) e Injeção de Dependência (DI)
 * 37: Introdução a Serviços
 * 38: Criando um serviço (Service)
-* 39: O que é Injeção de Dependência (Dependency Injection - DI)?
-* 40: Usando um serviço em um componente
-* 41: Escopo de instâncias de serviços e módulos
-* 42: Injetando um serviço em outro serviço
-* 43: Comunicação entre componentes usando serviços
+* 39: Injeção de Dependência (DI) + como usar um serviço em um componente
+* 40: Escopo de instâncias de serviços e módulos
+* 41: Injetando um serviço em outro serviço
+* 42: Comunicação entre componentes usando serviços
 
 ## Pipes
 
