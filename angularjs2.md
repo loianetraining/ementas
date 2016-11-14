@@ -51,6 +51,15 @@
 * 42: Comunicação entre componentes usando serviços
 
 ## Pipes
+* 43: Pipes
+* 44: Pipes: usando parâmetros
+* 45: Pipes encadeados
+* 46: Criando um Pipe
+* 47: Pipes: Criando um Pipe "Puro"
+* 48: Pipes: Criando um Pipe "Inpuro"
+* 49: Pipes: Async
+
+## Routing
 
 ## Integração com server
 * REST
@@ -58,8 +67,6 @@
 * Enviando dados para o servidor
 * Promises
 * CORS
-
-## Routing
 
 ## Formulários (Templates)
 
