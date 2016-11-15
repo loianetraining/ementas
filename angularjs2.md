@@ -52,12 +52,10 @@
 
 ## Pipes
 * 43: Pipes
-* 44: Pipes: usando parâmetros
-* 45: Pipes encadeados
-* 46: Criando um Pipe
-* 47: Pipes: Criando um Pipe "Puro"
-* 48: Pipes: Criando um Pipe "Inpuro"
-* 49: Pipes: Async
+* 44: Criando um Pipe
+* 45: Pipes: Criando um Pipe "Puro"
+* 46: Pipes: Criando um Pipe "Inpuro"
+* 47: Pipes: Async
 
 ## Routing
 
