@@ -53,11 +53,18 @@
 ## Pipes
 * 43: Pipes
 * 44: Criando um Pipe
+* 45: Aplicando Locale (internacionalização) nos Pipes
 * 45: Pipes: Criando um Pipe "Puro"
-* 46: Pipes: Criando um Pipe "Inpuro"
+* 46: Pipes: Criando um Pipe "Impuro"
 * 47: Pipes: Async
 
 ## Routing
+* Rotas: Configurando rotas no projeto
+* Rotas com links (RouterLink)
+* Rotas: CSS para rotas ativas
+* Rotas com parâmetros
+* Rotas com parâmetros na url (query parameters)
+* Rotas imperativas (redirecionamento via código)
 
 ## Integração com server
 * REST
