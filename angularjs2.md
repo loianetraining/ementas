@@ -84,15 +84,52 @@
 * 71: Estilo de url: HTML5 ou usando #
 
 ## Formulários (Templates)
+* Introdução
+* Adicionado o FormModule no módulo
+* Criando um formulário template-driven
+* Fazendo submit do formulário template-driven
+* Validação
+* CSS para erros
+* Valores padrão com ngModel
+* Grupos de formulário
+* Trabalhando com radio buttons
 
 ## Formulários (Data)
-* Máscara de Input + ControlValueAccessor
+* Introdução
+* Criando um formulário data-driven
+* Fazendo submit do formulário data-driven
+* Validação
+* Validacão padrão do Angular
+* CSS para erros
+* Valores padrão com ngModel
+* Grupos de formulário
+* Trabalhando com radio buttons
+* Trabalhando com arrays (mestre-detalhes)
+* FormBuilder
+* Criando uma validaço customizada
+* Criando uma validaço customizada assíncrona
+* Resetando o formulário
+* Criando uma máscara de Input + ControlValueAccessor
 
 ## Integração com server
-* REST
+* O objeto Http
 * Obtendo dados do servidor
 * Enviando dados para o servidor
 * Promises
+* RxJS e Observables
+* Operadores do Observable (mapeando dados)
+* REST
 * CORS
 
-## CRUD Mestre-detalhe
+## CRUD completo
+* Criação do projeto
+* Configurando as rotas
+* Criando a tela de login com formulário template-driven
+* Listagem de dados
+* Detalhes do dado
+* Formulário do dado
+* Edição
+* Criação
+* Deleção
+* Adicionando guarda de rotas
+* Conclusão do curso
