@@ -51,20 +51,42 @@
 * 42: Comunicação entre componentes usando serviços
 
 ## Pipes
-* 43: Pipes
+* 43: Pipes (usando pipes, parâmetros e pipes aninhados)
 * 44: Criando um Pipe
 * 45: Aplicando Locale (internacionalização) nos Pipes
-* 45: Pipes: Criando um Pipe "Puro"
-* 46: Pipes: Criando um Pipe "Impuro"
-* 47: Pipes: Async
+* 46: Pipes: Criando um Pipe "Puro
+* 47: Pipes: Criando um Pipe "Impuro"
+* 48: Pipes: Async
 
-## Routing
-* Rotas: Configurando rotas no projeto
-* Rotas com links (RouterLink)
-* Rotas: CSS para rotas ativas
-* Rotas com parâmetros
-* Rotas com parâmetros na url (query parameters)
-* Rotas imperativas (redirecionamento via código)
+## Rotas
+* 49: Rotas: Introdução
+* 50: Rotas: Configurando rotas simples
+* 51: Rotas: RouterLink: definindo rotas no template
+* 52: Rotas: Aplicando CSS em rotas ativas-k
+* 53: Rotas: Definindo e extraindo parâmetros de roteamento
+* 54: Rotas: Escutando mudanças nos parâmetros de roteamento
+* 55: Rotas Imperativas: Redirecionamento via código
+* 56: Rotas: Definindo e extraindo parâmetros de url (query)
+* 57: Rotas: Criando um módulo de rotas
+* 58: Criando um módulo de funcionalidade
+* 59: Rotas: Criando um módulo de rotas de funcionalidade
+* 60: Rotas Filhas
+* 61: Rotas Filhas: desenvolvendo as telas
+* 62: Rotas: Dica de Performance: Carregamento sob demanda (lazy loading)
+* 63: Rotas: Tela de Login e como não mostrar o Menu (NavBar)
+* 64: Usando Guarda de Rotas: CanActivate
+* 65: Usando Guarda de Rotas: CanActivateChild
+* 66: Usando Guarda de Rotas: CanDeactivate
+* 67: Usando Guarda de Rotas: CanDeactivate com Interface Genérica
+* 68: Resolve: carregando dados antes da rota ser ativada
+* 69: CanResolve: como não carregar a rota sem permissão
+* 70: Definindo rota padrão e wildcard (rota não encontrada)
+* 71: Estilo de url: HTML5 ou usando #
+
+## Formulários (Templates)
+
+## Formulários (Data)
+* Máscara de Input + ControlValueAccessor
 
 ## Integração com server
 * REST
@@ -72,12 +94,5 @@
 * Enviando dados para o servidor
 * Promises
 * CORS
-
-## Formulários (Templates)
-
-## Formulários (Data)
-* Máscara de Input + ControlValueAccessor
-
-## Angular CLI: Explorando em detalhes
 
 ## CRUD Mestre-detalhe
