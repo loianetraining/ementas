@@ -80,9 +80,8 @@
 * 67: Usando Guarda de Rotas: CanDeactivate com Interface Genérica
 * 68: Resolve: carregando dados antes da rota ser ativada
 * 69: CanLoad: como não carregar a rota/módulo sem permissão
-* 70: Rotas: pré-carregar os módulos da aplicação durante a navegação
-* 71: Definindo rota padrão e wildcard (rota não encontrada)
-* 72: Estilo de url: HTML5 ou usando #
+* 70: Definindo rota padrão e wildcard (rota não encontrada)
+* 71: Estilo de url: HTML5 ou usando #
 
 ## Formulários (Templates)
 * Introdução
