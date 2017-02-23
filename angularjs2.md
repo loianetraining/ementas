@@ -2,8 +2,8 @@
 * 01: Introdução + Arquitetura
 * 02: Ambiente de desenvolvimento
 * 03: Primeira app (Hello World)
-* 04: Entendo a primeira app + typescript
-* 05: Criando e usando um componente
+* 04: Introduço ao Typescript para Angular
+* 05: Módulos (ngModule)
 * 06: Templates
 * 07: Serviços (Services) e Injeção de dependência (DI)
 * 08: Dica de produtividade: code snippets
@@ -79,9 +79,10 @@
 * 66: Usando Guarda de Rotas: CanDeactivate
 * 67: Usando Guarda de Rotas: CanDeactivate com Interface Genérica
 * 68: Resolve: carregando dados antes da rota ser ativada
-* 69: CanResolve: como não carregar a rota sem permissão
-* 70: Definindo rota padrão e wildcard (rota não encontrada)
-* 71: Estilo de url: HTML5 ou usando #
+* 69: CanLoad: como não carregar a rota/módulo sem permissão
+* 70: Rotas: pré-carregar os módulos da aplicação durante a navegação
+* 71: Definindo rota padrão e wildcard (rota não encontrada)
+* 72: Estilo de url: HTML5 ou usando #
 
 ## Formulários (Templates)
 * Introdução
